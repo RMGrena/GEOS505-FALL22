@@ -2,4 +2,4 @@
  
  ## Rachel Grena 
  
- Email: [rachelgrena@u.boisestate.edu](rachelgrena@u.boisestate.edu)
+ Email: [rachelgrena@u.boisestate.edu](mailto:rachelgrena@u.boisestate.edu)
