@@ -4,9 +4,14 @@
  
  Email: [rachelgrena@u.boisestate.edu](mailto:rachelgrena@u.boisestate.edu)
 
-1. Goal 1 - Statisticl Analysis of Data Collection - STD Error, variablity, distribution
-2. Goal 2 - Plotting/Charting Maps of watersheds using interpolation and submapping 
-3. Goal 3 - Learn basics of R coding 
+### Research
+
+Understanding water partitioning in the Mores Creek Watershed by using End-member splitting alanysis of isotope fractions. 
+
+### Goals
+1. Statisticl Analysis of Data Collection - STD Error, variablity, distribution
+2. Plotting/Charting Maps of watersheds using interpolation and submapping 
+3. Learn basics of R coding 
 
 ## SMART Goals
 
