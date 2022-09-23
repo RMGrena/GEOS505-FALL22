@@ -6,7 +6,8 @@
 
 ### Research
 
-Understanding water partitioning in the Mores Creek Watershed by using End-member splitting alanysis of isotope fractions. 
+Understanding water partitioning in the Mores Creek Watershed by using End-member splitting alanysis of isotope fractions. This method calculates the fate of water(winter/summer streamflow) by the fraction of the source (rainfall and snowfall). An apapted code of a Cululative Denisty Function matching will be used in the R programming language. The code will require an input, data collection, and the output, stream gague discharges. 
+ 
 
 ### Goals
 1. Statisticl Analysis of Data Collection - STD Error, variablity, distribution
